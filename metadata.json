@@ -1,0 +1,5 @@
+{
+  "name": "Industrial AI Architect",
+  "description": "An agentic AI application for conceptualizing industrial automation solutions using 3D simulation, image editing (Nano Banana), and video generation (Veo).",
+  "requestFramePermissions": []
+}
